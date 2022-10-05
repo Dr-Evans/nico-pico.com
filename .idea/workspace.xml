@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9051d83-73c0-4e63-8431-f5b0965a93ba" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="false" />
+    <option name="myAllFileTypesSelected" value="true" />
+    <option name="mySelectedFileTypes">
+      <set />
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../sdk/go1.19.2" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HugoPluginSettings">
+    <option name="customHugoPath" value="\\wsl$\Ubuntu\home\linuxbrew\.linuxbrew\bin\hugo" />
+    <option name="defaultHugoNewOptions" value="" />
+    <option name="useCustomPath" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="false" />
+    <option name="myAllFileTypesSelected" value="true" />
+    <option name="mySelectedFileTypes">
+      <set />
+    </option>
+  </component>
+  <component name="ProjectId" id="2FglKvAc9CUAPGSbv0uzwY3xbCD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "configurable..is.expanded": "false",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/nico/projects/nico-pico.com/content/post/adventure-at-home-my-first-WWOOFing-experience-part-1",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.goide.configuration.GoLibrariesConfigurableProvider"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\nico\projects\nico-pico.com\content\post\adventure-at-home-my-first-WWOOFing-experience-part-1" />
+      <recent name="\\wsl$\Ubuntu\home\nico\projects\nico-pico.com\content\gallery\lieby-home" />
+      <recent name="\\wsl$\Ubuntu\home\nico\projects\nico-pico.com\content\page\nick-pics" />
+      <recent name="\\wsl$\Ubuntu\home\nico\projects\nico-pico.com\content\post\why-I-quit-my-six-figure-software-job" />
+      <recent name="\\wsl$\Ubuntu\home\nico\projects\nico-pico.com\content\post\what-is-nico-pico-all-about" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\nico\projects\nico-pico.com\content\gallery\lieby-home" />
+      <recent name="\\wsl$\Ubuntu\home\nico\projects\nico-pico.com\content\post\adventure-at-home-my-first-WWOOFing-experience-part-1" />
+      <recent name="\\wsl$\Ubuntu\home\nico\projects\nico-pico.com\content\posts\my-first-post" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9051d83-73c0-4e63-8431-f5b0965a93ba" name="Changes" comment="" />
+      <created>1664921604078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664921604078</updated>
+      <workItem from="1664921608510" duration="16024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
