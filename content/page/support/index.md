@@ -5,7 +5,7 @@ menu:
     main:
         weight: 4
         params: 
-            icon: search
+            icon: coin
 ---
 
 There are **no ads** or **premium** content on this website.
