@@ -43,10 +43,26 @@ resource "aws_s3_bucket" "www_s3_bucket" {
   bucket = "www.${var.domain}"
 }
 
-resource "aws_s3_bucket_acl" "www_s3_bucket_acl" {
+resource "aws_s3_bucket_policy" "www_s3_bucket_policy" {
   bucket = aws_s3_bucket.www_s3_bucket.bucket
+  policy = data.aws_iam_policy_document.allow_get_object_access_globally.json
+}
 
-  acl = "public-read"
+data "aws_iam_policy_document" "allow_get_object_access_globally" {
+  statement {
+    principals {
+      type        = "*"
+      identifiers = ["*"]
+    }
+
+    actions = [
+      "s3:GetObject"
+    ]
+
+    resources = [
+      "${aws_s3_bucket.www_s3_bucket.arn}/*",
+    ]
+  }
 }
 
 resource "aws_s3_bucket_website_configuration" "www_bucket_website_configuration" {

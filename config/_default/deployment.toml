@@ -4,7 +4,7 @@ URL = "s3://www.nico-pico.com?region=us-east-1"
 
 [[matchers]]
 # Cache static assets for 20 years.
-pattern = "^.+\\.(js|css|png|jpg|gif|svg|ttf)$"
+pattern = "^.+\\.(js|css|png|jpg|gif|png|webp|svg|ttf)$"
 cacheControl = "max-age=630720000, no-transform, public"
 gzip = true
 
