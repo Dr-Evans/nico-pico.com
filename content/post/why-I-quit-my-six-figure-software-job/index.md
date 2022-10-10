@@ -4,7 +4,7 @@ slug: why-I-quit-my-six-figure-software-job
 date: 2021-12-09 00:00:00+0000
 image: cover.webp
 categories:
-- technology
+- software-tech
 tags:
 - software
 - sabbatical

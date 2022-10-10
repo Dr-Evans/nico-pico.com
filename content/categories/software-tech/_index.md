@@ -1,5 +1,5 @@
 ---
-title: Technology
+title: Software / Technology
 image: "cover.jpg"
 
 # Badge style
