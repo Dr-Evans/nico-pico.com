@@ -3,6 +3,13 @@ title: "Cya Seattle, Hello Australia!"
 slug: cya-seattle-hello-australia
 date: 2022-03-03 00:00:00+0000
 image: cover.webp
+categories:
+- travel
+tags:
+- moving
+- seattle
+- australia
+- working holiday visa
 ---
 
 Hi all! **Nico** coming at you with a life update.

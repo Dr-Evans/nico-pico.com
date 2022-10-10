@@ -3,6 +3,12 @@ title: "Adventure at Home: My First WWOOFing Experience [Part 1 of 2]"
 slug: adventure-at-home-my-first-wwoofing-experience-part-1-of-2
 date: 2022-01-10 00:00:00+0000
 image: cover.webp
+categories:
+- travel
+tags:
+- travel
+- WWOOF
+- software
 ---
 
 ## One Man's Dream is Another Man's Inspiration
@@ -107,10 +113,6 @@ We all sat down. **Jim** and **Sharon** put their hands together, bowed their he
 And thus began the first dinner of many that went late into the night, fueled by good food, good wine, and good conversation.
 
 {{< figure src="welcome-dinner.webp" caption="My welcome dinner. Pictured from left to right: **Sharon**, **Jim**, **Jian**, and myself" >}}
-
-[//]: # (TODO: GET THIS WORKING)
-[//]: # ({{< gallery match="lieby-home/*" rowHeight="150" thumbnailResizeOptions="600x600 q90 Lanczos" >}})
-[//]: # ({{< figure src="living-room.webp" caption="Living room" width="33%" >}} {{< figure src="my-room.webp" caption="My room" width="33%" >}} {{< figure src="music-room.webp" caption="Music room" width="33%" >}})
 
 Preview for Part 2:
 - Zen and the Art of Log Stacking

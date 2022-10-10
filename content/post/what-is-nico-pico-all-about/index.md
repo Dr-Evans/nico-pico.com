@@ -3,6 +3,9 @@ title: What is NICO • PICO all about?
 slug: what-is-nico-pico-all-about
 date: 2021-10-28 00:00:00+0000
 image: cover.webp
+tags:
+- introduction
+- nico
 ---
 
 Hello there fellow internet traveler! 👋

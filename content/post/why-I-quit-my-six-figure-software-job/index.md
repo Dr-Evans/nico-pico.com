@@ -3,6 +3,13 @@ title: Why I quit my six figure software job
 slug: why-I-quit-my-six-figure-software-job
 date: 2021-12-09 00:00:00+0000
 image: cover.webp
+categories:
+- technology
+tags:
+- software
+- sabbatical
+- travel
+- nico
 ---
 
 In mid-2021, I stepped away from my high paying software development job.
@@ -91,7 +98,7 @@ I think a large part of this is due to the “sameness” of software developers
 
 Don’t get me wrong, I probably match a lot of these descriptions. And it’s not an assault on anyone in particular. But I disliked being surrounded by it. every. day. It weared on me.
 
-I wanted to be more well rounded in my interests and relationships.
+I wanted to be more well-rounded in my interests and relationships.
 
 #### Entitlement
 
