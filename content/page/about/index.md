@@ -10,9 +10,9 @@ menu:
 comments: false
 ---
 
-Hi there! I’m **Nico** and I live in the United States. I graduated from the University of Florida in 2015 with a degree in Computer Engineering. Afterwards, I moved across the country to work at a large west coast tech company.
+Hi there! I’m **Nico** and I'm from the United States. I graduated from the University of Florida in 2015 with a degree in Computer Engineering. Afterwards, I moved across the country to work at a large west coast tech company.
 
-In mid-2021, I quit my well-paying software gig to travel, pursue some passion projects, and live life. I talk about this a lot in my blog.
+In mid-2021, I quit my well-paying software gig to travel, pursue some passion projects, and live life. [I talk about this a lot in my blog]({{< ref "/post/why-I-quit-my-six-figure-software-job" >}}).
 
 The name of this website comes from my first name and my interest in photography (Nico + picture = **NICO • PICO**).
 
