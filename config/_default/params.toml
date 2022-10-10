@@ -2,10 +2,10 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
+favicon = "favicon.ico"
 
 [footer]
 since = 2021
-customText = ""
 
 [dateFormat]
 published = "Jan 02, 2006"
