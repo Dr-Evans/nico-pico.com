@@ -50,6 +50,12 @@ resource "aws_s3_bucket_website_configuration" "bucket_website_configuration" {
   }
 }
 
+resource "aws_s3_bucket_acl" "bucket_acl" {
+  bucket = aws_s3_bucket.s3_bucket.bucket
+
+  acl = "public-read"
+}
+
 resource "aws_acm_certificate" "cert" {
   domain_name       = var.domain
   subject_alternative_names = ["www.${var.domain}"]
@@ -88,8 +94,15 @@ resource "aws_acm_certificate_validation" "certificate_validation" {
 
 resource "aws_cloudfront_distribution" "cloudfront_s3_bucket_distribution" {
   origin {
-    domain_name = aws_s3_bucket.s3_bucket.bucket_regional_domain_name
-    origin_id   = aws_s3_bucket.s3_bucket.bucket_regional_domain_name
+    domain_name = aws_s3_bucket_website_configuration.bucket_website_configuration.website_endpoint
+    origin_id   = aws_s3_bucket_website_configuration.bucket_website_configuration.website_endpoint
+
+    custom_origin_config {
+      http_port              = "80"
+      https_port             = "443"
+      origin_protocol_policy = "http-only"
+      origin_ssl_protocols   = ["TLSv1.2"]
+    }
   }
 
   aliases = ["www.${var.domain}", var.domain]
@@ -101,7 +114,7 @@ resource "aws_cloudfront_distribution" "cloudfront_s3_bucket_distribution" {
   default_cache_behavior {
     allowed_methods  = ["GET", "HEAD"]
     cached_methods   = ["GET", "HEAD"]
-    target_origin_id = aws_s3_bucket.s3_bucket.bucket_regional_domain_name
+    target_origin_id = aws_s3_bucket_website_configuration.bucket_website_configuration.website_endpoint
 
     forwarded_values {
       query_string = false

@@ -6,6 +6,7 @@ menu:
         weight: 4
         params: 
             icon: coin
+comments: false
 ---
 
 There are **no ads** or **premium** content on this website.
