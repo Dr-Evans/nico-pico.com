@@ -1,6 +1,6 @@
 [[targets]]
-name = "www.nico-pico.com"
-URL = "s3://www.nico-pico.com?region=us-east-1"
+name = "nico-pico.com"
+URL = "s3://nico-pico.com?region=us-east-1"
 
 [[matchers]]
 # Cache static assets for 20 years.

@@ -1,4 +1,6 @@
 terraform {
+  required_version = ">= 1.2.0"
+
   required_providers {
     aws = {
       source  = "hashicorp/aws"
@@ -6,7 +8,11 @@ terraform {
     }
   }
 
-  required_version = ">= 1.2.0"
+  backend "s3" {
+    bucket = "apexforlife-tfstate"
+    key    = "nico-pico.com.tfstate"
+    region = "us-east-1"
+  }
 }
 
 provider "aws" {
