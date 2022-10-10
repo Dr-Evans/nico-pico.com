@@ -24,3 +24,7 @@ module "github_publish_to_s3" {
 
   domain = "nico-pico.com"
 }
+
+module "iam" {
+  source = "./iam"
+}
