@@ -121,3 +121,5 @@ Preview for Part 2:
 - Home-bound yet Homesick
 
 Until next time.
+
+HI PAOLA!
