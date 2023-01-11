@@ -1,7 +1,7 @@
 ---
 title: "Reflections on My Journey [Part 1 of 3]"
 slug: reflections-on-my-journey-part-1-of-3
-date: 2023-01-11 00:00:00+0000
+date: 2023-01-03 00:00:00+0000
 image: cover.webp
 categories:
 - travel
