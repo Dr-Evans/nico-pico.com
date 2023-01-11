@@ -1,3 +1,3 @@
 # nico-pico.com
 
-This repo houses the Hugo code for nico-pico.com.
+My [Hugo](https://gohugo.io/)-powered personal blog -- [nico-pico.com](https://nico-pico.com)
