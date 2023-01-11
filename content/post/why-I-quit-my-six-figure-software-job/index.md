@@ -22,7 +22,7 @@ My parents thought I was crazy. “**Nico**“, they told me, “why would you l
 
 What a silly thought. But it’s the core truth: I was unhappy with what I did and who I had become.
 
-In this blog post, I’d like to express the core reasons why I was unhappy at, and ultimately left, my job.
+In this blog post, I’d like to express the core reasons why I was unhappy at, and ultimately left, my six-figure job.
 
 ## I left…
 ### ... because what I was working on didn’t resonate with me.
@@ -49,32 +49,39 @@ A little rant:
 
 At the end of the day, my work was very unfulfilling.
 
-### ... because I wasn’t excelling at what I was doing.
+### ... because I wasn’t excelling in the environment I was in.
 
-This was a slow burn problem that crept up on me. At a certain point in my career, I had hit a wall with the throughput and quality of my work where I was doing ok, but I wasn’t excelling.
+This was a slow burn problem that crept up on me. At a certain point in my career, I had hit a wall with the throughput of my work where I was doing ok, but I wasn’t excelling.
 
-As a student in college, I worked my ass off. But while the classes were difficult, I somehow managed to stay on top of the curriculum. It was a virtuous cycle; I put the effort in and the results were immediate and positive, thus pushing me to continue to put the effort in, thus resulting in results that were immediate and positive, and so on.
+As a student in college, I worked my ass off. But while the classes were difficult, I managed to stay on top of the curriculum. It was a virtuous cycle; I put the effort in and the results were immediate and positive, thus pushing me to continue to put the effort in, thus resulting in results that were immediate and positive, and so on.
 
-As a junior developer, I had the same virtuous cycle. My management handed me appropriately-leveled tasks that I excelled in completing. I received feedback that was immediate and positive (both in reviews and compensation). Ultimately, this lead me to a fast track to promotion.
+As a junior developer, I had the same virtuous cycle. My management handed me appropriately-leveled tasks that I excelled in completing. I received feedback that was immediate and positive (both in reviews and compensation). Ultimately, this lead me to a fast track to promotion. This virtuous cycle continued for many years through the breadth of my career.
 
-I went in as a mid-level developer with great prospects, but as the work became more challenging and ambiguous, my throughput tampered out. The impact of my work became less immediate and more fuzzy. Somewhere along the way I lost the virtuous cycle. And it filled me with dread.
+I grew into a senior developer with great prospects, but as the work became more challenging and ambiguous, my throughput tampered out. The impact of my work became less immediate and more fuzzy. Somewhere along the way I lost the virtuous cycle. And it filled me with dread.
 
 Moreover, I watched as some of my peers continued to excel, grow in their careers, and get promoted. And it filled me with contempt.
 
-After a lot of reflection, I realized something: I had hit the “natural limits” of my ability as a software developer. In order to grow at this point, I would have to either:
+After much reflection, I arrived to two major realizations: 
+
+1. my company had matured dramatically in the past four years. There was a new work culture that was dramatically different from when I first started.
+2. I had hit the “natural limits” of my ability as a software developer in this new environment. 
+
+In order to continuing growing in this environment, I would have to either:
 
 1. flare my existing abilities (effortful)
 2. mold myself into a different kind of developer (unnatural)
 
-The first point seems pretty self-explanatory. I already put in a solid forty hours each week. I didn’t want to put more effort into my work at the expense of my personal life. If anything, I wanted to lower it. The second warrants more investigation.
+The first point seems pretty self-explanatory. But I already put in a solid forty hours each week. I didn’t want to commit more to work at the expense of my personal life. 
 
-The company I worked for had a set of tenants that served as the basis for how employees were judged. There were about ten of them, and exemplifying these tenants were vitally important to your growth and success there.
+The second warrants more explanation. The company I worked for had established a new set of tenants that served as the basis for how employees were judged. There were about ten of them, and exemplifying these tenants were vitally important to your growth and success.
 
-It was easy enough for me to meet certain qualities for a seasoned developer, but some of them didn’t come to me as easily. And it wasn’t because I was lazy or incapable of growth, but because it meant adhering to a work philosophy that felt unnatural to who I was.
+It was easy enough for me to meet many of the qualities of a high-performing senior developer under this new rubric, but some of them didn’t come to me as easily. And it wasn’t because I was lazy or incapable of growth, but because it meant adhering to a work philosophy that felt unnatural to who I was. 
 
-The result of all this is I stopped receiving glowing reviews, which hurt my encouragement to work hard. I slumped into being an ok developer in the eyes of those around me.
+For example, I excelled wearing multiple hats, iterating quickly, and getting shit done, but not an environment that required navigating heavy bureaucracy, office politics, and cumbersome processes.  
 
-I ultimately came to the conclusion that I was graded against a rubric I didn’t believe in. My company wanted to grow me, but they wanted to grow me in a specific way that didn’t match what I wanted. It was simply unnatural for me. I didn’t want to drink the Kool-Aid and be groomed into someone that wasn’t me.
+The result of all this was I stopped receiving glowing reviews, which hurt my encouragement to work hard. I slumped into being an ok developer in the eyes of this new environment.
+
+**I ultimately came to the conclusion that I was graded against a rubric I didn’t believe in.** My company wanted to grow me, but they wanted to grow me in a specific way that matched what they needed and not what I wanted. I felt like an unnatural fit in this environment.
 
 This resulted in me hitting a plateau in my professional growth that caused me much unhappiness.
 
@@ -86,29 +93,29 @@ Your environment rubs off on you. Much like what you eat affects your wellbeing,
 
 I remember the first week I started working I looked around at my peers and asked myself: “what health problems do I need to worry about?”. There were a few that jumped out to me: bad posture, weight, eye strain – all related to a sedentary life in front of a computer. But there were a few more problems lurking beneath: sun deficiency, stress eating, and caffeine overconsumption.
 
-A lot of developers offset this with a “min-max” lifestyle, where they stay really active and productive outside of work to offset the inactiveness of their job. This felt like a poor way to live my life. Youtuber KRAZAM has an amazing video satirizing this mentality.
+A lot of developers offset this with a “min-max” lifestyle, where they stay really active and productive outside of work to offset the inactiveness of their job. This felt like a poor way to live my life. [Youtuber KRAZAM has an amazing video satirizing this mentality](https://www.youtube.com/watch?v=_o7qjN3KF8U).
 
 I concluded that humans were not designed to sit in front of a computer and this job would slowly deteriorate my health if I didn’t change something.
 
-#### The Bubble
+#### The West Coast Tech Bubble
 
-The tech bubble is real.
+The west coast tech bubble is real.
 
-I think a large part of this is due to the “sameness” of software developers. Slightly nerdy, probably into video games, smart but a little socially awkward. Attire consists of t-shirt, jeans, and hoodie everyday. With this group of people you talk about the same things day in and day out at lunch.
+I think a large part of this is due to the “sameness” of software developers in big tech. Slightly nerdy, probably into video games, smart but a little socially awkward. Attire consists of t-shirt, jeans, and hoodie every day. With this group of people you talk about the same things day in and day out at lunch.
 
-Don’t get me wrong, I probably match a lot of these descriptions. And it’s not an assault on anyone in particular. But I disliked being surrounded by it. every. day. It weared on me.
+Don’t get me wrong, I probably match a lot of these descriptions. And it’s not an assault on anyone in particular. But I disliked being surrounded by it. every. day. It wore on me.
 
-I wanted to be more well-rounded in my interests and relationships.
+I wanted to be more well-rounded in my interests and relationships. I wanted to meet people from more diverse backgrounds.
 
 #### Entitlement
 
 In the US, if you land an entry level software development gig, you are most likely in the top 5% of income earners in the US. That’s such a crazy statistic to me. What an incredible privilege: great job prospects, steady income, top of the line perks and benefits, good work-life balance. Good software developers are in such a demand right now that companies are throwing everything they can at them to attract talent.
 
-This breeds a certain amount of entitlement amongst software devs in the industry.
+This breeds a certain amount of entitlement amongst software devs in the industry, especially in big tech.
 
-Much like my rant with teachers and construction workers above, on a moral level it just didn’t sit right with me. I don’t really add that much value to society, yet society values me so much. Teachers can hardly pay for their class supplies while I’m doing code reviews from my bed at well over $100 an hour. It’s mind boggling.
+Much like my rant with teachers and construction workers above, on a moral level it just didn’t sit right with me. I don’t really add that much value to society, yet society values me so much. Teachers can hardly pay for their class supplies while I’m doing code reviews from my couch at well over $100 an hour. It’s mind boggling.
 
-Since the sky’s the limit in the tech world, many software developers keep wanting more and more. You’re already a top earner with top benefits, yet you’re disappointed that your new offer only offered to increase your salary by $40k? That’s more than the median salary in the US!
+Since the sky’s the limit in the tech world, many software developers keep wanting more and more. You’re already a top earner with top benefits, yet you’re disappointed that your new offer only offered to increase your salary by $40k? [That alone is the median salary in the US!](https://en.wikipedia.org/wiki/Personal_income_in_the_United_States)
 
 I concluded that there exists a certain entitlement in the tech industry that I needed to step away from. It was suffocating. I needed to come back to earth.
 
